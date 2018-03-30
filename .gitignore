@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/misc.xml
+.idea/workspace.xml
+my-rabbitMq/src/main/resources/
+my-rabbitMq/src/test/
+my-rabbitMq/target/
+spring-cloud-eureka-client-demo/src/test/
+spring-cloud-eureka-client-demo/target/
+spring-cloud-eureka-demo/src/test/
+spring-cloud-eureka-demo/target/
