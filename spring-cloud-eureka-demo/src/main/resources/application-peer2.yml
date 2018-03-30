@@ -1,0 +1,12 @@
+server:
+  port: 2003
+spring:
+  application:
+    name: eureka-demo
+
+eureka:
+  instance:
+    hostname: peer2
+  client:
+    serviceUrl:
+      defaultZone: http://peer1:2002/eureka/
